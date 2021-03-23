@@ -5,7 +5,7 @@
 
 ![演示](https://raw.githubusercontent.com/prgrmz01/pass_pad/master/demo.gif)
 
-#### install
+#### 安装
 
 ```shell
 pip install pass_pad

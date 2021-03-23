@@ -1,0 +1,15 @@
+/.idea/*
+*.pyc
+/pass.db
+
+*.sqbpro
+
+*.csv
+
+*.db
+
+build/
+
+dist/
+
+pass_pad.egg-info/
